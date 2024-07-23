@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExtensionBlocks</name>
+    </assembly>
+    <members>
+        <member name="P:ExtensionBlocks.Beef0004.CreatedOnTime">
+            <summary>
+                Created time of BagPath
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.Beef0004.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.InternalId">
+            <summary>
+                ID used for uniqueness. can be used to find a shellbag among a collection of shellbags
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.NodeId">
+            <summary>
+                Used for tracking purposes by end user
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.FriendlyName">
+            <summary>
+                A nice looking name vs the technical representation of the ShellBag item
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.HexValue">
+            <summary>
+                ShellBag data in its unparsed format as a string of hex characters separated by -
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.BagPath">
+            <summary>
+                BagPath is the *root* path to the ShellBag.
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.AbsolutePath">
+            <summary>
+                AbsolutePath is the path to the ShellBag.
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.Slot">
+            <summary>
+                Slot is the value name in BagPath
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.IsDeleted">
+            <summary>
+                True if the ShellBag is from a deleted Registry key
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.MruPosition">
+            <summary>
+                The position this ShellBag item was opened
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.NodeSlot">
+            <summary>
+                Gets the node slot.
+            </summary>
+            <value>The node slot.</value>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.ChildShellBags">
+            <summary>
+                Child ShellBag items for this ShellBag
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.Value">
+            <summary>
+                The name of the ShellBag. Can be based on file name, directory name, or GUID
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.LastWriteTime">
+            <summary>
+                last write time of BagPath key
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.FirstInteracted">
+            <summary>
+                First explored time
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.IShellBag.LastInteracted">
+            <summary>
+                First explored time
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.ShellBag0X31.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:ExtensionBlocks.ShellBag0X31.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+    </members>
+</doc>

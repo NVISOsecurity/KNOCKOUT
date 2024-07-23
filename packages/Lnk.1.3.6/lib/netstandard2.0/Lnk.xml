@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lnk</name>
+    </assembly>
+    <members>
+        <member name="P:Lnk.ExtraData.ConsoleDataBlock.IsBold">
+            <summary>
+                If false, font is regular weight
+            </summary>
+        </member>
+        <member name="M:Lnk.Lnk.LoadFile(System.String,System.Int32)">
+            <summary>
+            Helper to load lnk files
+            </summary>
+            <param name="lnkFile"></param>
+            <returns>LnkFile</returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="P:Lnk.ShellItems.IShellBag.FriendlyName">
+            <summary>
+                A nice looking name vs the technical representation of the ShellBag item
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.IShellBag.Value">
+            <summary>
+                The name of the ShellBag. Can be based on file name, directory name, or GUID
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X00.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X00.CreatedOnTime">
+            <summary>
+                Created time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X00.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X1F.ModifiedDateFromBackup">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X2E.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X31.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X31.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X32.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X32.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X74.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBag0X74.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBagCDBurn.LastModificationTime">
+            <summary>
+                last modified time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBagCDBurn.CreatedOnTime">
+            <summary>
+                Created time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBagCDBurn.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+        <member name="P:Lnk.ShellItems.ShellBagZipContents.LastAccessTime">
+            <summary>
+                Last access time of BagPath
+            </summary>
+        </member>
+    </members>
+</doc>
