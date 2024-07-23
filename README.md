@@ -30,3 +30,10 @@ https://github.com/EricZimmerman/RegistryPlugins/blob/master/RegistryPlugin.User
 
 The repository contains a YARA rule to detect the unmodified pre-compiled binary.
 The blog post [From Evidence to Advantage: Leveraging Incident Response Artifacts for Red Team Engagements](BLOG-LINK) contains more indicators that can be used as an idea for further detections.
+
+# About the author
+
+Steffen Rogge is a Cyber Security Consultant at NVISO, where he mostly conducts Red Team / Purple Team assessments with a special focus on TIBER engagements.
+This enables companies to evaluate their existing defenses against emulated Advanced Persistent Threat (APT) campaigns.
+
+If you do have a any questions regarding the tool or our services, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/steffenrogge).
