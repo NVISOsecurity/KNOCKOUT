@@ -2,7 +2,8 @@
 # About KNOCKOUT
 
 The tool KNOCKOUT streamlines the collection and aggregation of incident response artifacts from multiple sources, significantly saving time during critical initial access phases of Red Team exercises.
-KNOCKOUT as a proof of concept tool which has been developed in combination with the blog post published on the NVISO blog: [From Evidence to Advantage: Leveraging Incident Response Artifacts for Red Team Engagements](BLOG-LINK).
+
+KNOCKOUT is a proof of concept tool which has been developed in combination with the blog post published on the NVISO blog: [From Evidence to Advantage: Leveraging Incident Response Artifacts for Red Team Engagements](BLOG-LINK).
 
 Using KNOCKOUT now gives us the opportunity to collect multiple sources of information in one step to efficiently assess our situation on the compromised endpoint. This otherwise would require multiple steps to query the different sources (file system, registry, etc.), then aggregate the information from the various output formats which as a result is taking a chunk of time which is already very valuable and limited during initial access, where every minute counts to proceed with persistence or lateral movement to avoid loosing the foothold.
 
