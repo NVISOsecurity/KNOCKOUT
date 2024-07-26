@@ -22,10 +22,10 @@ This would allow for a malicious USB stick scenario or data exfiltration using U
 |Usage of executable files and applications launched by the user (UserAssist)|What application did the user launch and when have they been used last? This gives us an insight into possible persistence targets.|
 
 # Credits
-https://github.com/louietan/LnkParser (for the logic to retrieve the target destinations of LNK files)
-https://raw.githubusercontent.com/kacos2000/Jumplist-Browser/ (for the AppID list)
-https://github.com/EricZimmerman/JLECmd/ (for the custom destination parsing logic)
-https://github.com/EricZimmerman/RegistryPlugins/blob/master/RegistryPlugin.UserAssist/UserAssist.cs (UserAssist ROT13 Function)
+- https://github.com/louietan/LnkParser (for the logic to retrieve the target destinations of LNK files)
+- https://raw.githubusercontent.com/kacos2000/Jumplist-Browser/ (for the AppID list)
+- https://github.com/EricZimmerman/JLECmd/ (for the custom destination parsing logic)
+- https://github.com/EricZimmerman/RegistryPlugins/blob/master/RegistryPlugin.UserAssist/UserAssist.cs (UserAssist ROT13 Function)
 
 # Detection
 
